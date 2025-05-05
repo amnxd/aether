@@ -1,5 +1,5 @@
 import React from 'react'
-import AetherSignup from './AetherSignup'
+import AetherSignup from './Component/AetherSignup'
 
 const App = () => {
   return (
