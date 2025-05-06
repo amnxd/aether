@@ -1,9 +1,10 @@
 import React from 'react'
-import AetherSignup from './Component/AetherSignup'
-
+// import SignIn from './pages/SignIn'
+import Home from './pages/Home'
 const App = () => {
   return (
-    <AetherSignup/>
+    <Home/>
+    // <SignIn/>
   )
 }
 
