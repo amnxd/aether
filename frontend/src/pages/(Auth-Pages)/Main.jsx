@@ -1,6 +1,6 @@
 import React from "react";
 import AehterLogo from "../../Component/AehterLogo";
-import { FaUsers } from "react-icons/fa";
+import Slider from "../../Component/Slider";
 
 const Main = () => {
   return (
@@ -27,9 +27,7 @@ const Main = () => {
         </div>
       </div>
 
-      <div className="sticky-navBar ">
-        
-      </div>
+      <Slider/>
     </div>
   );
 };
